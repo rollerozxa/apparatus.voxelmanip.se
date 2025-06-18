@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+	<link rel="stylesheet" href="/assets/style.css" type="text/css">
+
+	{% include head_meta.html %}
+</head>
+<body>
+	<div class="topmenu"><a href="https://principia-web.se/?from-appr">Check out Apparatus' sequel, now free and open source - Principia</a></div>
+	<header>
+		<nav>
+			<a href="/">
+				<img class="icon" src="/assets/a48.png">
+			</a>
+			<div class="menu">
+				<a {% if page.nav == "about" %}class="sel"{% endif %} href="/">About</a>
+				<a {% if page.nav == "download" %}class="sel"{% endif %} href="/download/" >Download</a>
+				<a {% if page.nav == "community" %}class="sel"{% endif %} href="/community-site/">Community site</a>
+				<a {% if page.nav == "music" %}class="sel"{% endif %} href="/music/">Soundtrack</a>
+				<a {% if page.nav == "misc" %}class="sel"{% endif %} href="/misc/">Misc.</a>
+			</div>
+		</nav>
+	</header>
+	<main>{% if page.title %}<h1>{{ page.title }}</h1>{% endif %}{{ content }}</main>
+	<footer>
+		<p>Website by <a href="https://voxelmanip.se">ROllerozxa</a> - <a href="https://github.com/rollerozxa/apparatus.voxelmanip.se">Site source code</a></p>
+	</footer>
+</body>
+</html>

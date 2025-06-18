@@ -1,0 +1,22 @@
+title: Apparatus
+description: "Website about Apparatus"
+url: https://apparatus.voxelmanip.se
+
+baseurl: /
+
+lang: en_GB
+
+permalink: pretty
+
+sass:
+  style: compressed
+  sourcemap: never
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+plugins:
+  - jekyll-sitemap

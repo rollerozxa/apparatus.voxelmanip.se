@@ -1,0 +1,36 @@
+---
+title: All Versions
+description: This page contains a table of all versions of Apparatus that were released.
+nav: download
+---
+
+<p>This page contains a table of all versions of Apparatus that were released.</p>
+
+<p>For ones that have been archived there is a download link. Versions without a download link are considered lost, and the version name is speculated based on the version code and relation to other found versions.</p>
+
+<p>For a list of changes that happened to the game during these updates, see the <a href="/changelog">changelog page</a>.</p>
+
+<table style="width:100%">
+	<tr>
+		<th style="width:75px">Code</th>
+		<th style="width:100px">Version</th>
+		<th style="width:150px">Build date</th>
+		<th style="width:100px">Download</th>
+		<th style="width:90px">CRC32</th>
+		<th>Notes</th>
+	</tr>
+	{% for version in site.data.versions %}
+	<tr>
+		<td class="right">{{ version.code }}</td>
+		<td>{{ version.name }}</td>
+		{% if version.build_date %}
+			<td class="center">{{ version.build_date }}</td>
+			<td class="center">{% if version.build_date %}<a href="https://archive.org/download/apparatus-android-game-archive/Apparatus_{{ version.name }}.apk">Download</a>{% endif %}</td>
+			<td class="center mono">{{ version.crc32 }}</td>
+		{% else %}
+			<td colspan="3" class="center"><em>Not archived</em></td>
+		{% endif %}
+		<td>{{ version.notes }}</td>
+	</tr>
+	{% endfor %}
+</table>

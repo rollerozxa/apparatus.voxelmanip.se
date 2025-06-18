@@ -1,0 +1,128 @@
+body {
+	font-family: "helvetica neue", "Helvetica", sans-serif;
+	font-size: 0.95em;
+	padding: 0;
+	margin: 0 auto;
+	max-width: 1000px;
+}
+
+p, li {
+	line-height: 1.5;
+}
+
+h1 {
+	margin-top: 0;
+}
+
+h1 { font-size: 1.60em; }
+h2 { font-size: 1.40em; }
+h3 { font-size: 1.20em; }
+h4 { font-size: 1.00em; }
+
+a {
+	color: #0faff3;
+	text-decoration: none;
+}
+
+.topmenu {
+	margin: 6px 22px;
+}
+
+header {
+	padding: 8px 18px;
+	background-color: #e7e7e7;
+}
+
+nav {
+	background: url('apparatusheader.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: right;
+	background-clip: padding-box;
+	overflow: hidden;
+
+	.icon {
+		float: left;
+		height: 48px;
+		width: 48px;
+	}
+}
+
+.menu {
+	line-height: 45px;
+
+	a {
+		background-color: #fff;
+		border-radius: 5px;
+		font-weight: bold;
+		color: black;
+		font-size: 0.95em;
+		text-decoration: none;
+		padding: 10px;
+	}
+
+	a.sel {
+		border-bottom: 2px solid orange;
+	}
+}
+
+main {
+	padding: 20px 20px;
+	overflow: hidden;
+	clear: both;
+}
+
+footer {
+	margin-top: 4em;
+	text-align: center;
+}
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+
+	th {
+		text-align: center;
+	}
+
+	td, th {
+		border: 1px solid grey;
+		padding: 10px 5px;
+	}
+}
+
+.center {
+	text-align: center;
+}
+.right {
+	text-align: right;
+}
+.mono {
+	font-family: monospace;
+	font-size: 11pt;
+}
+
+figure {
+	text-align: center;
+	margin: 10px 0;
+
+	figcaption {
+		font-style: italic;
+		margin-top: 3px;
+	}
+}
+
+@media (prefers-color-scheme: dark) {
+	body, .menu a {
+		background-color: #0f0f0f;
+		color: #fff;
+	}
+
+	a {
+		color: #62aafc;
+	}
+
+	header {
+		background-color: #202020;
+	}
+}

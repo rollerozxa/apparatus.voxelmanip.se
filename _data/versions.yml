@@ -1,0 +1,171 @@
+- code: 38
+  name: "1.2.1"
+  build_date: "2014-01-17 17:13:58"
+  crc32: C462723B
+
+- code: 37
+  name: "1.2"
+  build_date: "2013-11-29 16:24:30"
+  crc32: 8CF0B4BE
+
+- code: 36
+  name: "1.1"
+  build_date: "2011-12-06 02:33:14"
+  crc32: 0A9A74AB
+
+- code: 35
+  name: "1.0.4"
+  build_date: "2011-08-21 02:22:04"
+  crc32: 15FD4976
+
+- code: 34
+  name: "1.0.3"
+  build_date: "2011-08-20 00:56:00"
+  crc32: 351EF125
+
+- code: 33
+  name: "1.0.2"
+  notes: "Unclear if this version was ever released as 1.0.3 was released very quickly after 1.0"
+
+- code: 32
+  name: "1.0.1"
+  notes: "Ditto"
+
+- code: 31
+  name: "1.0"
+
+- code: 30
+  name: "0.9962"
+  build_date: "2011-07-19 21:10:28"
+  crc32: D5C91B73
+
+- code: 29
+  name: "0.9961"
+
+- code: 28
+  name: "0.996"
+  build_date: "2011-07-18 13:47:12"
+  crc32: 0515BB37
+
+- code: 27
+  name: "0.995"
+  build_date: "2011-07-14 16:24:52"
+  crc32: 37953B0A
+
+- code: 26
+  name: "0.994"
+
+- code: 25
+  name: "0.993"
+  build_date: "2011-07-02 01:29:46"
+  crc32: 9626458F
+
+- code: 24
+  name: "0.992"
+
+- code: 23
+  name: "0.991"
+
+- code: 22
+  name: "0.99"
+  build_date: "2011-07-12 16:36:36"
+  crc32: F0AC06EC
+
+- code: 21
+  name: "0.98612"
+  build_date: "2011-07-02 22:24:24"
+  crc32: 1E7AAF7B
+
+- code: 20
+  name: "0.98611"
+  build_date: "2011-07-05 19:44:32"
+  crc32: 076B6346
+
+- code: 19
+  name: "0.9861"
+  build_date: "2011-07-02 01:29:00"
+  crc32: E7AAE4F4
+
+- code: 18
+  name: "0.986"
+
+- code: 17
+  name: "0.9853"
+  build_date: "2011-06-22 17:11:50"
+  crc32: 9BB91D9D
+
+- code: 16
+  name: "0.9852"
+  build_date: "2011-06-22 07:34:28"
+  crc32: 8A2C89C2
+
+- code: 15
+  name: "0.9851"
+  build_date: "2011-06-21 16:43:44"
+  crc32: ECBD5604
+
+- code: 14
+  name: "0.985"
+
+- code: 13
+  name: "0.9823"
+  build_date: "2011-06-09 21:08:00"
+  crc32: 8A25F1FD
+
+- code: 12
+  name: "0.9822"
+  build_date: "2011-06-08 17:08:56"
+  crc32: 1982EDA9
+
+- code: 11
+  name: "0.9821"
+  build_date: "2011-06-03 00:51:12"
+  crc32: DDCBD50A
+
+- code: 10
+  name: "0.982"
+  build_date: "2011-06-02 22:10:46"
+  crc32: E79697DE
+
+- code: 9
+  name: "0.981"
+  build_date: "2011-06-02 16:26:22"
+  crc32: 18EB2C43
+
+- code: 8
+  name: "0.98"
+  build_date: "2011-05-31 22:10:50"
+  crc32: 34643B13
+
+- code: 7
+  name: "0.951"
+  build_date: "2011-05-15 23:18:24"
+  crc32: 9FE58840
+
+- code: 6
+  name: "0.95"
+  build_date: "2011-05-15 22:28:02"
+  crc32: B3D18C70
+
+- code: 5
+  name: "0.94"
+  build_date: "2011-05-13 16:56:08"
+  crc32: 2DE80E6B
+
+- code: 4
+  name: "0.93"
+  build_date: "2011-05-12 17:50:32"
+  crc32: D99F97CB
+
+- code: 3
+  name: "0.92"
+  build_date: "2011-05-12 16:13:24"
+  crc32: B852D09D
+
+- code: 2
+  name: "0.91"
+
+- code: 1
+  name: "0.9"
+  build_date: "2011-05-11 18:36:44"
+  crc32: C3063289
