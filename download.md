@@ -22,7 +22,7 @@ For a list of all versions of Apparatus, including older versions, see the [All 
 ---
 
 ## Playing Apparatus in [CURRENT_YEAR]
-Apparatus as a game is over a decade old at this point, and a lot has happened with Android since then. If you are using a modern phone from this decade, there may be some
+Apparatus as a game is over a decade old at this point, and a lot has happened with Android since then. If you are using a modern phone from this decade, there may be some issues when trying to play Apparatus on it.
 
 First of all, Apparatus is a 32-bit app. Certain very recent 64-bit Android phones have begun to drop support for running 32-bit apps on the hardware level. Apparatus will not be able to run on these phones, which will only increase in amount in the coming years.
 
