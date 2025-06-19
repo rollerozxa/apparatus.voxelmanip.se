@@ -19,6 +19,8 @@ It requires Android 1.6+, and should work fine on way newer versions of Android 
 
 For a list of all versions of Apparatus, including older versions, see the [All Versions](/all-versions/) page. Also see the [Changelog](/changelog/) page for a version history of the game.
 
+Or are you maybe interested in the [LITE version](/lite/)?
+
 ---
 
 ## Playing Apparatus in [CURRENT_YEAR]
