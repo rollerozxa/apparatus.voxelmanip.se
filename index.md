@@ -3,8 +3,9 @@ description: Apparatus is a sandbox puzzle game for Android devices. Use your ha
 nav: about
 ---
 
-<img src="/assets/promo.webp" style="float:right;padding-left:1em;padding-bottom:2em">
 <h1>Apparatus</h1>
+
+<img src="/assets/promo.webp" class="promo">
 
 Apparatus is a sandbox puzzle game for Android devices. Use your hammer to pin planks and wheels together to build anything you can imagine, connect your apparatus to motors and give them power using batteries.
 
