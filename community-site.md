@@ -17,6 +17,6 @@ Unlike for [Principia](https://archive.principia-web.se), there is no archive av
 ## apparatus-web
 In a similar way to [principia-web](https://principia-web.se) for Principia, ROllerozxa started apparatus-web as an unofficial community site for Apparatus back in 2021. It was later shut down in 2024 due to inactivity and ROllerozxa wanting to focus more on Principia after the release of its source code.
 
-In total only 5 people registered and 31 levels were uploaded. An archive of the levels uploaded and a database dump with sensitive information stripped can be  [found on the Internet Archive](https://archive.org/details/apparatus-web-final).
+In total only 5 people registered and 31 levels were uploaded. An archive of the levels uploaded and a database dump with sensitive information stripped can be [found on the Internet Archive](https://archive.org/details/apparatus-web-final).
 
-The source code which ran apparatus-web can be found on [GitHub](https://github.com/apparatus-preservation-project/apparatus-web), which includes implementations of the internal pages that the game uses to communicate with the server.
+The source code which ran apparatus-web can be found on [GitHub](https://github.com/rollerozxa/apparatus-web), which includes implementations of the internal pages that the game uses to communicate with the server.
