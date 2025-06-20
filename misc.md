@@ -7,6 +7,7 @@ nav: misc
 Miscellaneous interesting pages.
 
 - [Apparatus LITE](/lite/)
+- [Interactive Challenge](/interactive-challenge/)
 - [List of objects in the game](/objects/)
 - [Sandbox tips & tricks](/tips/) (from official community site)
 
