@@ -3,7 +3,7 @@ title: Apparatus LITE
 nav: misc
 ---
 
-Apparatus LITE was a limited version of Apparatus available on Google Play (formerly Android Market) for free. It has fewer built-in puzzle levels, the sandbox save feature is disabled and playing levels from the community site wasn't be possible.
+Apparatus LITE was a limited version of Apparatus available on Google Play (formerly Android Market) for free. It has fewer built-in puzzle levels, the sandbox save feature is disabled and playing levels from the community site wasn't possible.
 
 Nowadays there's really no reason to play the LITE version. Feel free to [download the full version](/download/) instead.
 
