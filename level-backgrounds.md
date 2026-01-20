@@ -1,5 +1,6 @@
 ---
 title: Level backgrounds
+nav: misc
 ---
 
 In Apparatus 1.0, 9 new backgrounds were added to the game in addition to the original default wooden background. These backgrounds can be selected from in the background picker in the sandbox.

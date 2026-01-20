@@ -1,5 +1,6 @@
 ---
 title: Keyboard Shortcuts
+nav: misc
 ---
 
 While Apparatus is primarily an Android game designed with touch controls in mind, the game has many keyboard shortcuts that can be used when playing with a physical or virtual keyboard available.

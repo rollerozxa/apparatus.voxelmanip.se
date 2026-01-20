@@ -1,5 +1,6 @@
 ---
 title: Level File Format
+nav: misc
 ---
 
 Apparatus levels are stored as `.jar` files, which are essentially ZIP archives containing various files that define the level's properties, objects, and settings.
