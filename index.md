@@ -16,3 +16,10 @@ Apparatus was developed by the Swedish indie game company [Bithack AB](https://b
 In late 2011 the development of a sequel to Apparatus was announced, Apparatus 2: Principia. It was later rebranded to just Principia and released on Android in late 2013, later releasing a Windows version in early 2014. In 2022 the source code to Principia was released to the community, allowing it to be further developed and live on as an open source project. For Apparatus players wanting to try out Principia, see the [Principia for Apparatus Players](https://principia-web.se/wiki/Principia_for_Apparatus_Players) page on the Principia Wiki.
 
 This site serves as a fan website for Apparatus created by the Principia community, providing information about the game after it was taken down from Google Play and the official community site shut down in early 2018.
+
+<div class="gallery">
+	<img src="/screenshots/1.jpg" alt="Apparatus Screenshot 1">
+	<img src="/screenshots/2.jpg" alt="Apparatus Screenshot 2">
+	<img src="/screenshots/3.jpg" alt="Apparatus Screenshot 3">
+	<img src="/screenshots/4.jpg" alt="Apparatus Screenshot 4">
+</div>
