@@ -9,6 +9,7 @@ Miscellaneous interesting pages.
 - [Apparatus LITE](/lite/)
 - [Interactive Challenge](/interactive-challenge/)
 - [Level backgrounds](/level-backgrounds/)
+- [Level file format](/level-file-format/)
 - [List of objects in the game](/objects/)
 - [Sandbox tips & tricks](/tips/) (from official community site)
 
