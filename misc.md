@@ -8,9 +8,10 @@ Miscellaneous interesting pages.
 
 - [Apparatus LITE](/lite/)
 - [Interactive Challenge](/interactive-challenge/)
+- [List of objects in the game](/objects/)
 - [Level backgrounds](/level-backgrounds/)
 - [Level file format](/level-file-format/)
-- [List of objects in the game](/objects/)
+- [Keyboard Shortcuts](/keyboard-shortcuts/)
 - [Sandbox tips & tricks](/tips/) (from official community site)
 
 Archived news articles about Apparatus from Bithack's 2011 website:
