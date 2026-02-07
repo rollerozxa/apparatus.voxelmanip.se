@@ -14,6 +14,7 @@ Miscellaneous interesting pages.
 - [Level file format](/level-file-format/)
 - [Keyboard Shortcuts](/keyboard-shortcuts/)
 - [Sandbox tips & tricks](/tips/) (from official community site)
+- [The Apparatus font](/apparatus-font/)
 
 Archived news articles about Apparatus from Bithack's 2011 website:
 
