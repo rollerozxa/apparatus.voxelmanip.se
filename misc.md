@@ -7,6 +7,7 @@ nav: misc
 Miscellaneous interesting pages.
 
 - [Apparatus LITE](/lite/)
+- [Decompilation project](/decompilation/)
 - [Interactive Challenge](/interactive-challenge/)
 - [List of objects in the game](/objects/)
 - [Level backgrounds](/level-backgrounds/)

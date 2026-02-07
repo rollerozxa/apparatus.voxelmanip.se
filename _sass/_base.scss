@@ -155,4 +155,15 @@ img {
 	.gallery {
 		grid-template-columns: 1fr 1fr 1fr 1fr;
 	}
+
+	.gallery-2 {
+		grid-template-columns: 1fr 1fr;
+	}
 }
+
+.youtube {
+	width: 100%;
+	height: auto;
+	aspect-ratio: 16/9;
+}
+

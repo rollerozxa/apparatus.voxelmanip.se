@@ -11,6 +11,13 @@ In addition to the last official Apparatus version 1.2.1, a new unofficial updat
 
 ---
 
+## Decompilation project
+In early 2026 ROllerozxa begun work on a new decompilation project for Apparatus. It is still experimental, but can build and run the game for Android as well as natively on desktop (Windows and Linux), and will allow for improvements to the game that were not possible before.
+
+### [More information](/decompilation/)
+
+---
+
 ## Official
 The last official version of Apparatus was 1.2.1, released on the 17th January of 2014. It can be downloaded here:
 
