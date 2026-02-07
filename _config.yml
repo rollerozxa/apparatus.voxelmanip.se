@@ -6,6 +6,9 @@ baseurl: /
 
 lang: en_GB
 
+exclude:
+  - README.md
+
 permalink: pretty
 
 sass:
