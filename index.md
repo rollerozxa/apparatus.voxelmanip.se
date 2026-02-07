@@ -18,8 +18,8 @@ In late 2011 the development of a sequel to Apparatus was announced, Apparatus 2
 This site serves as a fan website for Apparatus created by the Principia community, providing information about the game after it was taken down from Google Play and the official community site shut down in early 2018.
 
 <div class="gallery">
-	<img src="/screenshots/1.jpg" alt="Apparatus Screenshot 1">
-	<img src="/screenshots/2.jpg" alt="Apparatus Screenshot 2">
-	<img src="/screenshots/3.jpg" alt="Apparatus Screenshot 3">
-	<img src="/screenshots/4.jpg" alt="Apparatus Screenshot 4">
+	<img src="/media/index/1.jpg" alt="Apparatus Screenshot 1">
+	<img src="/media/index/2.jpg" alt="Apparatus Screenshot 2">
+	<img src="/media/index/3.jpg" alt="Apparatus Screenshot 3">
+	<img src="/media/index/4.jpg" alt="Apparatus Screenshot 4">
 </div>
