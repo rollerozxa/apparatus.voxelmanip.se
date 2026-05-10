@@ -112,6 +112,13 @@ figure {
 	}
 }
 
+.birthday {
+	background-color: #f0f0f0;
+	padding: 10px;
+	font-size: 1rem;
+	text-align: center;
+}
+
 @media (prefers-color-scheme: dark) {
 	body, .menu a {
 		background-color: #0f0f0f;
@@ -123,6 +130,10 @@ figure {
 	}
 
 	header {
+		background-color: #202020;
+	}
+
+	.birthday {
 		background-color: #202020;
 	}
 }
